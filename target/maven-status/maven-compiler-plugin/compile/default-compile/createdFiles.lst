@@ -1,0 +1,9 @@
+it\accenture\mida\msd\calcolo\controllers\TestController.class
+it\accenture\mida\msd\calcolo\configurations\batch\BatchConfig.class
+it\accenture\mida\msd\calcolo\configurations\RetryConfig.class
+it\accenture\mida\msd\calcolo\CalcoloApplication.class
+it\accenture\mida\msd\calcolo\configurations\batch\jobs\Tasklet2.class
+it\accenture\mida\msd\calcolo\configurations\batch\jobs\JobConfig.class
+it\accenture\mida\msd\calcolo\services\JobService.class
+it\accenture\mida\msd\calcolo\services\JobService$1.class
+it\accenture\mida\msd\calcolo\configurations\batch\jobs\Tasklet1.class
